@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Events</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="error_retrieve_events">Error on retrieve events.</string>
+</resources>
